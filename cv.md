@@ -14,9 +14,9 @@
 # Навыки
 
 - **HTML**
-- **CSS|SCSS**
+- **CSS | SCSS**
 - **JavaScript Basics**
-- **Git|GitHub**
+- **Git | GitHub**
 - **Adobe Photoshop**
 
 # Пример кода
